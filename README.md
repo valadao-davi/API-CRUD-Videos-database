@@ -1,2 +1,6 @@
 # API-CRUD-Videos-database
-API simples de dados de vídeos com banco de dados PostgreSQL integrado  
+Funcionalidades CRUD: 
+Criar e adicionar para o banco de dados 
+Le e retornar a lista de vídeos com query incluida 
+Atualizar vídeos já existentes 
+Deletar vídeos
