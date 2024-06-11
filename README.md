@@ -2,10 +2,15 @@
 # API-CRUD-Videos-database
 
 Um projeto que busca implementar uma api de videos com um banco de dados utilizando PostsgreSQL em uma hospedagem Render. Com funcionalidades CRUD:
+
 -Criar videos
+
 -Ler videos e buscar videos especificos
+
 -Atualizar videos existentes
+
 -Deletar videos existentes
+
 
 Hospedagem principal da API: https://api-crud-videos-database.onrender.com
 ## Documentação da API
