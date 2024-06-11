@@ -55,7 +55,7 @@ Hospedagem principal da API: https://api-crud-videos-database.onrender.com
 
 ## Deploy
 
-Para fazer o deploy desse projeto node
+Para fazer o deploy desse projeto node:
 
 ```bash
  $ npm start
